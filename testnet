@@ -1,0 +1,1 @@
+sudo bash -c "$(curl -sSfL 'https://portal.massbitroute.net/api/v1/node_install?id=551f019a-1dd2-495d-b70d-fdb8a8bae37b&user_id=091b853f-15a1-4d35-81b4-deec1422507c&blockchain=dot&network=mainnet&zone=AS&data_url=http://127.0.0.1:8545&app_key=PNmQC7knCSq0LieScJZOhw&portal_url=https://portal.massbitroute.net&env=keiko')"
